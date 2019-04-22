@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/J2SE_DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/J2SE_DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_abstractFactory/design_abstractFactory.iml" filepath="$PROJECT_DIR$/design_abstractFactory/design_abstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_adapter/design_adapter.iml" filepath="$PROJECT_DIR$/design_adapter/design_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_builder/design_builder.iml" filepath="$PROJECT_DIR$/design_builder/design_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_chainOfResponsibility/design_chainOfResponsibility.iml" filepath="$PROJECT_DIR$/design_chainOfResponsibility/design_chainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_decorator/design_decorator.iml" filepath="$PROJECT_DIR$/design_decorator/design_decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_facade/design_facade.iml" filepath="$PROJECT_DIR$/design_facade/design_facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_observer/design_observer.iml" filepath="$PROJECT_DIR$/design_observer/design_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_proxy/design_proxy.iml" filepath="$PROJECT_DIR$/design_proxy/design_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_simpleFactory/design_simpleFactory.iml" filepath="$PROJECT_DIR$/design_simpleFactory/design_simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_singleton/design_singleton.iml" filepath="$PROJECT_DIR$/design_singleton/design_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_strategy/design_strategy.iml" filepath="$PROJECT_DIR$/design_strategy/design_strategy.iml" />
+      <module fileurl="file://D:\workspace_idea\J2SE_DesignPatterns\design_builder\design_builder\design_strategy (1).iml" filepath="D:\workspace_idea\J2SE_DesignPatterns\design_builder\design_builder\design_strategy (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_templateMethod/design_templateMethod.iml" filepath="$PROJECT_DIR$/design_templateMethod/design_templateMethod.iml" />
+    </modules>
+  </component>
+</project>

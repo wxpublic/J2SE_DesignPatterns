@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="design_abstractFactory" />
+        <module name="design_adapter" />
+        <module name="design_builder" />
+        <module name="design_chainOfResponsibility" />
+        <module name="design_decorator" />
+        <module name="design_facade" />
+        <module name="design_observer" />
+        <module name="design_proxy" />
+        <module name="design_simpleFactory" />
+        <module name="design_singleton" />
+        <module name="design_strategy" />
+        <module name="design_strategy (1)" />
+        <module name="design_templateMethod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design_abstractFactory" target="1.7" />
+      <module name="design_adapter" target="1.7" />
+      <module name="design_builder" target="1.7" />
+      <module name="design_chainOfResponsibility" target="1.7" />
+      <module name="design_decorator" target="1.7" />
+      <module name="design_facade" target="1.7" />
+      <module name="design_observer" target="1.7" />
+      <module name="design_proxy" target="1.7" />
+      <module name="design_simpleFactory" target="1.7" />
+      <module name="design_singleton" target="1.7" />
+      <module name="design_strategy" target="1.7" />
+      <module name="design_strategy (1)" target="1.7" />
+      <module name="design_templateMethod" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

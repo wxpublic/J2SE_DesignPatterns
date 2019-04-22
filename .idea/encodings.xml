@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/design_abstractFactory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_builder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_chainOfResponsibility" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_simpleFactory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_singleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_templateMethod" charset="UTF-8" />
+  </component>
+</project>
